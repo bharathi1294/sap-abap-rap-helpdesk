@@ -4,7 +4,7 @@ This is the place where you can raise your questions, doubts, or scenarios relat
 
 ## How to Ask  
 - Raise your query as a **GitHub Issue**
-- [Create an Issue](https://github.com/bharathi1294/sap-rap-helpdesk/issues)
+- [Create an Issue](https://github.com/bharathi1294/sap-abap-rap-helpdesk/issues)
 
 ## Contact  
 - 📧 Email: [sivabharathi1294@gmail.com](mailto:sivabharathi1294@gmail.com)  
