@@ -1,4 +1,4 @@
-# Free RAP Consultation  
+# RAP Community Help Desk
 
 This is the place where you can raise your questions, doubts, or scenarios related to RAP.  
 
